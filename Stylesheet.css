@@ -1,0 +1,59 @@
+.AA{
+    text-align: right;
+}
+button{
+    padding: 8px;
+    border-radius: 9%;
+    border-color:blue;
+}
+button:hover{
+    text-emphasis-color:white;
+    background-color: blue;
+}
+.BB{
+    text-align: center;
+    font-size: 90px;
+    font-display: 20%;
+}
+.CC{
+    text-align: center;
+    padding: 3%;
+    font-size: 40%;
+}
+.DD{
+    text-align: center;
+    font-size: 40%;
+}
+.FF{
+    text-align: right;
+}
+.GG{
+    padding: 3%;
+}
+.HH{
+    padding: 3%;
+    font-size: 40%;
+}
+.DD{
+    text-align: center;
+    font-size: 40%;
+}
+.FF{
+    text-align: right;
+}
+.GG{
+    padding: 3%;
+}
+.HH{
+    text-align: center;
+}
+.input{
+    width: 40%;
+    padding: 10px;
+    border-radius: 10px ;
+    border-color: azure;
+}
+.submit{
+    display: flex;
+    justify-content: center;
+}
